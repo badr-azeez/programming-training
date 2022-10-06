@@ -10,5 +10,6 @@ second = datetime.now().second
 print( year, '-', month, '-', day,'-', ' ',hour,':', minute,':', second,sep='')
 
 print('-' * 9)
+
 now = datetime.now()
 print(now.strftime('%Y-%m-%d %H:%M:%S'))
