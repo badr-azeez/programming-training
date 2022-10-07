@@ -1,2 +1,2 @@
-# programming-training
-## this is test 1
+# Programming Training
+A repository of all the programming languages that I have trained in
